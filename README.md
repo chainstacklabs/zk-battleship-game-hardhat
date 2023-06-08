@@ -32,7 +32,7 @@ This project is the practical part of a tutorial that outlines how to build a ga
 Clone the repository:
 
 ```sh
-git clone
+git clone https://github.com/chainstacklabs/zk-battleship-game-hardhat.git
 ```
 
 Install dependencies:
