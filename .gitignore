@@ -1,3 +1,7 @@
+# hardhat
+artifacts/
+cache/
+
 # Logs
 logs
 *.log

@@ -1,0 +1,12 @@
+{
+  "name": "game-of-battleship",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomicfoundation/hardhat-verify": "^1.0.1",
+    "hardhat": "^2.13.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.4"
+  }
+}
