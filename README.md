@@ -55,6 +55,9 @@ Deploy a node with Chainstack:
 1. [Deploy a node](https://docs.chainstack.com/platform/join-a-public-network).  
 1. [View node access and credentials](https://docs.chainstack.com/platform/view-node-access-and-credentials).
 
+
+> In this specific version we specify the account playing by taking the private key from the environment variable. Develop this further by adding a user interface.
+
 ```env
 SEPOLIA_ENDPOINT="YOUR_CHAINSTACK_ENDPOINT"
 GOERLI_ENDPOINT="YOUR_CHAINSTACK_ENDPOINT"
