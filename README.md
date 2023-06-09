@@ -75,7 +75,7 @@ npx hardhat run scripts/deploy.ts --network sepolia
 or 
 
 ```sh
-npx hardhat run scripts/deploy.ts --network sepolia
+npx hardhat run scripts/deploy.ts --network goerli
 ```
 
 Now the contract will be deployed and verified on Etherscan.
